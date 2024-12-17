@@ -8,4 +8,8 @@ public class Example extends BaseClass {
 	{
 		System.out.println("Hello");
 	}
+	public void m2()
+	{
+		System.out.println("Hi");
+	}
 }
