@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-15T09:06:38 GMT-08:00" name="Default suite" finished-at="2024-12-15T09:07:09 GMT-08:00" duration-ms="30612">
+    <groups>
+    </groups>
+    <test started-at="2024-12-15T09:06:38 GMT-08:00" name="Default test" finished-at="2024-12-15T09:07:09 GMT-08:00" duration-ms="30612">
+      <class name="Organisation.ToCreateAndDeleteProductTest">
+        <test-method is-config="true" signature="bs()[pri:0, instance:Organisation.ToCreateAndDeleteProductTest@6d4d66d2]" started-at="2024-12-15T09:06:38 GMT-08:00" name="bs" finished-at="2024-12-15T09:06:38 GMT-08:00" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:Organisation.ToCreateAndDeleteProductTest@6d4d66d2]" started-at="2024-12-15T09:06:38 GMT-08:00" name="bt" finished-at="2024-12-15T09:06:38 GMT-08:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:Organisation.ToCreateAndDeleteProductTest@6d4d66d2]" started-at="2024-12-15T09:06:38 GMT-08:00" name="bc" finished-at="2024-12-15T09:06:43 GMT-08:00" duration-ms="4926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:Organisation.ToCreateAndDeleteProductTest@6d4d66d2]" started-at="2024-12-15T09:06:43 GMT-08:00" name="bm" finished-at="2024-12-15T09:06:49 GMT-08:00" duration-ms="5827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="CreateAndDeleteProductTest()[pri:0, instance:Organisation.ToCreateAndDeleteProductTest@6d4d66d2]" started-at="2024-12-15T09:06:49 GMT-08:00" name="CreateAndDeleteProductTest" finished-at="2024-12-15T09:07:09 GMT-08:00" duration-ms="19789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAndDeleteProductTest -->
+        <test-method is-config="true" signature="af()[pri:0, instance:Organisation.ToCreateAndDeleteProductTest@6d4d66d2]" started-at="2024-12-15T09:07:09 GMT-08:00" name="af" finished-at="2024-12-15T09:07:09 GMT-08:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:Organisation.ToCreateAndDeleteProductTest@6d4d66d2]" started-at="2024-12-15T09:07:09 GMT-08:00" name="ac" finished-at="2024-12-15T09:07:09 GMT-08:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:Organisation.ToCreateAndDeleteProductTest@6d4d66d2]" started-at="2024-12-15T09:07:09 GMT-08:00" name="at" finished-at="2024-12-15T09:07:09 GMT-08:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:Organisation.ToCreateAndDeleteProductTest@6d4d66d2]" started-at="2024-12-15T09:07:09 GMT-08:00" name="as" finished-at="2024-12-15T09:07:09 GMT-08:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- Organisation.ToCreateAndDeleteProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
