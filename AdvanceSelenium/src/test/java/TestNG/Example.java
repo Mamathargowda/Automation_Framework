@@ -4,6 +4,7 @@ import Generic_Utilities.BaseClass;
 
 public class Example extends BaseClass {
 
+	//it is branch2
 	public void m1()
 	{
 		System.out.println("Hello");
